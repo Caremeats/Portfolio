@@ -25,7 +25,7 @@ const Hero = () => {
           <TextGenerateEffect className="text-center text-[40px] md:text-5x lg:text-6xl" words="Erryl James Vargas"/>
         </div>
       <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi! I am a Graduate in Computer Engineering from Adamson </p>
-      <a href="#about"> <MagicButton title="Show my Work" icon={<FaLocationArrow/>} position='right'/></a>
+      <a href="#about" className="flex items-center justify-center"> <MagicButton title="Show my Work" icon={<FaLocationArrow/>} position='right'/></a>
       </div>
 
     </div>
