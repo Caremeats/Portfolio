@@ -6,7 +6,7 @@ import { FaLocationArrow } from 'react-icons/fa'
 
 const Hero = () => {
   return (
-    <div className="relative flex flex-col items-center justify-center h-screen">
+    <div className="relative flex flex-col items-center justify-center h-screen" id="about">
 
       <div>
         <Spotlight className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen" fill="white"/>
@@ -24,7 +24,7 @@ const Hero = () => {
           <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">Web Developer</h2>
           <TextGenerateEffect className="text-center text-[40px] md:text-5x lg:text-6xl" words="Erryl James Vargas"/>
         </div>
-      <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi! I am a Graduate in Computer Engineering from Adamson </p>
+      <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi! I am a Graduate in Computer Engineering from Adamson University </p>
       <a href="#about" className="flex items-center justify-center"> <MagicButton title="Show my Work" icon={<FaLocationArrow/>} position='right'/></a>
       </div>
 
