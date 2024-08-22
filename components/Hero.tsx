@@ -39,7 +39,7 @@ const Hero = () => {
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
           Hi! I am a Graduate in Computer Engineering from Adamson University{" "}
         </p>
-        <a href="#about" className="flex items-center justify-center">
+        <a href="#projects" className="flex items-center justify-center">
           {" "}
           <MagicButton
             title="Show my Work"
