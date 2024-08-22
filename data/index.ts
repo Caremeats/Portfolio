@@ -79,26 +79,26 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yasdasd",
-    des: "asdasdas",
-    img: "",
-    iconLists: ["/vite.svg", "/re.svg", "/ts.svg"],
-    link: "",
+    title: "Holy Coin",
+    des: "A BlockChain Project, called Holy Coins Token",
+    img: "/holycoinbg.png",
+    iconLists: ["/next.svg", "/re.svg", "/ts.svg"],
+    link: "https://caremeats-holy-coin.vercel.app",
   },
   {
     id: 3,
-    title: "",
+    title: "MORE PROJECTS TO COME",
     des: "",
     img: "",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: [""],
     link: "",
   },
   {
     id: 4,
-    title: "",
+    title: "MORE PROJECTS TO COME",
     des: "",
     img: "",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: [""],
     link: "",
   },
 ];
@@ -204,6 +204,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+ 
   },
   {
     id: 2,
