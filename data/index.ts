@@ -210,6 +210,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Caremeats",
   },
   {
     id: 2,
@@ -218,5 +219,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/erryl-james-vargas-952340280/",
   },
 ];
